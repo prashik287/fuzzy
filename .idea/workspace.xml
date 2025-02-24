@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e26dacb7-180d-49a3-97db-83d2821e81c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/fuzzy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fuzzi/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fuzzi/fuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="e26dacb7-180d-49a3-97db-83d2821e81c3" name="Changes" comment="Fuzzer initial Commit">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jprashik &lt;prashikjadhav17@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -51,6 +49,11 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -70,12 +73,33 @@
       <option name="presentableId" value="Default" />
       <updated>1740410509588</updated>
       <workItem from="1740410510647" duration="306000" />
-      <workItem from="1740424765059" duration="1441000" />
+      <workItem from="1740424765059" duration="1634000" />
     </task>
+    <task id="LOCAL-00001" summary="Fuzzer initial Commit">
+      <option name="closed" value="true" />
+      <created>1740426350331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740426350331</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fuzzer initial Commit">
+      <option name="closed" value="true" />
+      <created>1740426381341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740426381341</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fuzzer initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fuzzer initial Commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fuzzy$main.coverage" NAME="main Coverage Results" MODIFIED="1740410520033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
