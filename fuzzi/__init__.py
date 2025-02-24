@@ -1,0 +1,1 @@
+from .fuzz import main
